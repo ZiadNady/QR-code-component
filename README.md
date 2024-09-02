@@ -43,10 +43,6 @@ For a live preview, you can host the project using a local server or any online 
 
 - **Frontend Mentor**: This project was inspired by a challenge from Frontend Mentor, a platform to improve front-end coding skills by building real projects.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ---
 
 Feel free to modify the content and styles to better suit your needs!
